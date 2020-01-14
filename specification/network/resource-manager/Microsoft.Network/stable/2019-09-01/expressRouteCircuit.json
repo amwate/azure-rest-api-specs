@@ -1866,7 +1866,6 @@
           "description": "The ExpressRoute connection."
         },
         "connections": {
-          "readOnly": true,
           "type": "array",
           "items": {
             "$ref": "#/definitions/ExpressRouteCircuitConnection"

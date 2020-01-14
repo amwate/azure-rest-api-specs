@@ -40,7 +40,11 @@
               },
               "addressPrefix": "20.0.0.0/24",
               "circuitConnectionStatus": "Connected",
-              "provisioningState": "Succeeded"
+              "provisioningState": "Succeeded",
+              "ipv6CircuitConnectionConfig": {
+                "addressPrefix": "aa:bb::1/125",
+                "circuitConnectionStatus": "Connected"
+              }
             }
           }
         ]
